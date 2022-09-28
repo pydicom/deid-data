@@ -1,0 +1,6 @@
+include README.md LICENSE
+graft deid_data
+prune *.pyc
+prune *OLD
+global-exclude __pycache__
+global-exclude *.py[co]
