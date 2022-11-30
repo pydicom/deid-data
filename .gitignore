@@ -1,6 +1,6 @@
 __pycache__
 dist
-deid.egg-info
+deid_data.egg-info
 build
 pypi.sh
 env
