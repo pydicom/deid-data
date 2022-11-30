@@ -14,4 +14,5 @@ and **Merged pull requests**. Critical items to know are:
 Referenced versions in headers are tagged on Github, in parentheses are for pypi.
 
 ## [vxx](https://github.com/pydicom/deid-data/tree/main) (master)
+ - adding new fields to ctbrain1.dcm (Humans Dataset) for improved VR Blank testing. (0.0.18) 
  - creation of external data repository for deid (0.0.17)
